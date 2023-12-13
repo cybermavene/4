@@ -1,0 +1,166 @@
+{
+    "Ads": {
+        "show_ads": false,
+        "bannerAd": "facebook",
+        "InterAd": "facebook",
+        "NativeAd": "facebook",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native": "ca-app-pub-3940256099942544/1044960115",
+        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "intersitial_click_activites": 6,
+        "intersitial_click_list": 6
+
+    },
+
+    "Data": {
+        "btn_more_title": "More",
+        "btn_more_url": "https://www.google.com/",
+        "items_data": [{
+                "title": "What is Letgo?",
+                "image": "https://nabilelhially.com/all/data/letgo/1.webp",
+                "title_size": "25",
+				"detail": [{
+					"image": "",
+					"text": "Letgo is an online marketplace.It’s one of the best platforms for buying and selling stuff online.\n \n Next to sites like eBay and Facebook Marketplace, it’s become the go-to place for secondhand items.\n \n Browsing the app, you’ll find everything from books to bicycles to electronics.\n \n You can also buy and sell services such as babysitting, tutoring, and more.\n \n The app focuses on connecting people who live near each other.\n \n In fact, Letgo’s slogan is “the simple way to buy and sell locally.”In that way, it’s very similar to Craigslist.However, it differs from Craigslist in that it’s entirely app-based.The Letgo app uses a simple, visually appealing interface that allows you to search for items and see photos before you buy.\n \n It’s free and super easy to use.And to help you find more stuff, the app uses your purchase history and search interests to notify you about newly posted items you might like.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "How Does Letgo Work?\n \n You can access Letgo on your desktop or mobile device.The app is available for Android and iPhone.\n \nTo sell on Letgo, you just need to post photos of your item, set a price, and provide a short description.\n \nPeople will contact you when to ask questions, negotiate a price, and figure out how and where to meet to make the transaction.\n \n For shoppers, Letgo is equally as easy.\n \n You can search for specific items and then narrow your search to your location.Or, you can simply browse what’s available in your area to see if there’s something that strikes your fancy.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "How to Buy Things on Letgo\n \n You can buy things on Letgo with just a few taps of your smartphone screen. To start, you need first to make an account (a requirement for anyone who wants to use the app). From there, you’re given two options: search for specific items or search for items in your area. The app will ask for your location to help you find results. You don’t have to let them know where you live, but it certainly makes it easier to find listings in your area. Once you hit the Search button, you’re taken to the Results page.\n \n It looks like this: Then, you can select the items that look good to you and reach out to the seller. The app gives you a few stock texts to send the seller to get the conversation started: Once you reach out to someone, a dialog box appears in the app’s Chats section. \n \nYou’ll receive a notification when the seller responds. If they respond, you’ll be able to get a more specific idea of their location (the app shows you their neighborhood, not just the town). This is helpful if you’re trying to decide whether the seller is close enough to make it worth the trip. [su_note]Tip: Looking for free stuff? You’re in luck. Just set the maximum price to $0 in your search settings, and you’ll be able to view all of the free items in your area.[/su_note]",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "How to Sell on Letgo",
+                "image": "https://nabilelhially.com/all/data/letgo/2.webp",
+                "title_size": "25",
+ 				"detail": [{
+					"image": "",
+					"text": "If you want to sell something, the process is quite simple. Just follow these steps:\n \n 1. Download the app from Google Play, the Apple App Store, or Letgo.com.\n \n 2. Make an account using your email address, Google, or Facebook account. \n \n 3. Provide the app with your location. \n \n 4. Click the “Sell Your Stuff” button located at the bottom of the screen. \n \n 5. Choose a category for your item and upload a photo of it.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "6. Give your listing a title, choose a price (free is an option), and then click “Done.” \n \n7. Your listing is now live. Wait for interested parties to contact you. When you find a buyer, organize a meetup and exchange. Walk away with cash in your pocket!",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "great thing about Letgo is that it facilitates in-person transactions. This not only saves you from having to pay seller fees (and accept a smaller profit margin), but it also helps minimize risk.You will always be able to make your final decision based on how you feel when you meet your seller or customer in person.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "6 Tips for Selling on Letgo",
+                "image": "https://nabilelhially.com/all/data/letgo/3.webp",
+                "title_size": "25",
+      			"detail": [{
+					"image": "",
+					"text": "As you can see, posting your stuff on Letgo is super easy. However, anyone who has ever tried to sell stuff online knows that it’s more difficult than it seems. Earning real money takes a good strategy and some hard work. But once you get rolling, it can be a great side hustle. To help get you earning faster, we’ve compiled a few tips. Follow our advice and you’ll be on your way to having a successful career as an e-commerce mogul:",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "1. Take Good Photos \n \n When Letgo shoppers search for something, they see mostly photos: They don’t see the asking price, the description, or any other information about the item (aside from your location). As such, it’s essential to take eye-catching photos to attract potential customers. Otherwise, they might scroll right past your listing.\n \n Good photos will help your listing stand out in a sea of similar posts. [su_note]Some characteristics of a great cover photo include: Good lighting that makes it easy for people to see the item and all its features. High-resolution images that show all the details. A full shot of the item that allows people to see its most important features right away. \n \n Additional Photos In addition to your cover photo, you should post some additional images so that people can get a more detailed view. There’s no photo quota you need to meet, but “the more, the better” is the general rule of thumb. \n \n Take some close-up shots of different parts of the object. For example, if you’re selling clothes, shoot some pics of the buttons, seams, and tags. If you’re selling electronics, include some photos of the serial number, batteries, plugs, etc. Remember, they are buying online, so it’s your job to try and make up for some of the shortcomings of online shopping. \n \n Photos are a great way to do this. They help people feel like they’re viewing the item in real life, and may sway them toward a purchase.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "2. Set Good Prices \n \n Let us be very honest: People go to Letgo to find deals. Everyone knows that they could spend more money on a new item. But if they want to save a few bucks, they open up this app. As a result, you need to be realistic about your prices. \n \n It’s natural to want to make as much money as possible, but you’ll never succeed if you overprice your items. Start by looking at what the item sells for new. That’ll give you an upper limit. Obviously, you shouldn’t list it at a higher price than it sells for in stores. \n \n Then, search for the item on Letgo to see how much other people sell it for. If you don’t find a similar listing on this platform, check other sites like eBay and OfferUp. Compare your item to those other listings. Is yours in better or worse shape? Is it a newer or older model? Use the other listings as a point of comparison to set your own price.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Selling on Letgo",
+                "image": "https://nabilelhially.com/all/data/letgo/4.webp",
+                "title_size": "25",
+          		"detail": [{
+					"image": "",
+					"text": "3. Expand your Market \n \n Another way to sell more is to offer your items in more than one location. Instead of just listing it for people in a 10-mile radius, offer it to folks outside that area. The broader your market, the more likely you’ll attract potential buyers. The best way to do this is to include multiple listings and set a different location for each one. You can list it in any city within driving distance if you’d like. Of course, you may have to travel for this to work. Buyers might not be willing to drive long distances for secondhand items. However, providing this service is a great way to reach more people and increase your chances of making a sale.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "4. Feature Your Listing \n \n If you scroll through the search results for some products, you’ll notice that certain listings get special attention. These are called “featured listings”. In featured listings, the photos are usually a bit larger. And, you can see the price and a short description without having to click. These extra details stand out and attract more people. However, Letgo doesn’t offer this treatment to just anyone.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "Instead, you’ll have to pay for the extra exposure. Here’s a short video from Letgo’s YouTube channel explaining how it works To do this, simply go into the “My Listings” section of the app. Select the item you want to feature and then click the “Feature My Listing” button. It’ll take you to a screen that looks like this: In addition to displaying more details on search results pages, featuring your listing will also push it toward the top of the results. When you don’t feature, the listing eventually gets buried by newer items, which makes it harder for you to sell.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Disbursements with Zelle®",
+                "image": "https://nabilelhially.com/all/data/letgo/5.webp",
+                "title_size": "25",
+             	"detail": [{
+					"image": "",
+					"text": "5. Use Social Media Every \n \n time you create a listing, Letgo provides you easy sharing options to help you promote it on Facebook, Twitter, and Instagram. Take advantage of this feature. Promoting your item on social media takes very little time and doesn’t cost you anything. Let people in your personal network know that you’re selling something and see if anyone is interested. This is helpful because it gives you access to other people’s networks as well. ",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "For example, maybe your boss’ daughter, who you’ve never met, is in the market for the shoes you’re selling. All it takes is for your boss to share it with her, and you might just have yourself a sale. Of course, be careful about bombarding people with promotions. No one (especially your boss) wants to get spammed with posts about you selling your lawn gnome collection. But, a few here and there can certainly help you sell more stuff.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "6. Negotiate with People \n \n Lastly, make sure to be flexible about pricing.In some cases, you may have to lower your price a little bit to make a deal.Set a price that’s fair for you, but always have a secondary price in mind that you’re willing to accept.Most buyers will probably try to bargain.If you’re able to meet them halfway, you’ll have a much better chance of getting them to buy.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "receive money without a smartphone?",
+                "image": "https://nabilelhially.com/all/data/letgo/6.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "000000",
+					"text": "Letgo has made it easier than ever to sell stuff online.\n \n With this app, you can make some actual cash from all that stuff you’ve got laying around.\n \n So, if you find yourself staring at your garage and wondering what to do with all of those old books (or records, or whatever else you’ve accumulated over the years), don’t throw them out.\n \n Download Letgo and start making some money today!",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }
+        ]
+    }
+}

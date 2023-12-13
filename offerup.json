@@ -1,0 +1,166 @@
+{
+    "Ads": {
+        "show_ads": false,
+        "bannerAd": "facebook",
+        "InterAd": "facebook",
+        "NativeAd": "facebook",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native": "ca-app-pub-3940256099942544/1044960115",
+        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "intersitial_click_activites": 6,
+        "intersitial_click_list": 6
+
+    },
+
+    "Data": {
+        "btn_more_title": "More",
+        "btn_more_url": "https://www.google.com/",
+        "items_data": [{
+                "title": "What is OfferUp?",
+                "image": "https://m-imag.web.app/offerup/1.webp",
+                "title_size": "25",
+				"detail": [{
+					"image": "",
+					"text": "OfferUp is a consumer-to-consumer marketplace primarily based on a mobile app. Established in 2011, it has since become a strong competitor to Craigslist, eBay, and Facebook Marketplace as it features a mobile-friendly user interface as well as ratings of sellers and buyers. It boasts over 20 million monthly active users. The marketplace features large photos of items, which can be searched by geo-location nearest the buyer. You can also filter searches by price, distance, and category. Sellers only need to upload a photo of the product from their smartphone. The platform prioritizes the highest bid and allows you to contact potential buyers before finalizing the deal in person.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "What Sells Best on OfferUp? \n \n According to ‘This Work From Home Life,’ OfferUp is particularly good for selling small to mid-sized items, such as clothing, tools, and furniture. The good news is that all of these items are commonly found on an online liquidation marketplace.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "Why Sell Liquidation Merchandise on OfferUp? \n \n OfferUp is now the largest mobile marketplace in the United States, with a vast and growing community of buyers. The app boasted more than 20 million users at the start of 2022 and is only available in the United States. OfferUp users spend, on average, 25 minutes per day on the app. This represents a huge market, and you’re bound to have users in your area, especially if you live somewhere urban.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "OfferUp: Fees and Listing Promotion",
+                "image": "https://m-imag.web.app/offerup/2.webp",
+                "title_size": "25",
+ 				"detail": [{
+					"image": "",
+					"text": "The registration is simple, and listing is free; there are no costs to posting standard listings for customers to pick up the item in person. However, sellers must pay a service fee when shipped items sell. The fee is either a minimum of $1.99 or 12.9% of the sale price. Estimated costs are shown when the listing is created.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "There are two paid plans to help promote listings: Promote and Promote Plus.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "Promote \n \n The Promote plan helps you boost your views an average of 14 times. Promoting your listing will feature it among the top 50 items in search, browse, and category results, allowing potential buyers to find your listing more quickly. You can set the length of time for your promotion at 1 ($3.99) or three days ($7.99). \n \n Promote Plus \n \n Promote Plus offers the same features as the Promote plan but lasts for a whole month and allows you to change the products you’re promoting. It costs $19.99.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "How to List an Item for Sale on OfferUp",
+                "image": "https://m-imag.web.app/offerup/3.webp",
+                "title_size": "25",
+      			"detail": [{
+					"image": "",
+					"text": "Listing an Item for Sale \n \n How do I set up my store and start selling? \n \n 1.Once you have downloaded the app and created an account, tap the camera icon at the bottom of the screen- this opens the ‘Post an Offer’ page.\n \n 2.You can upload photos or take new photos with your phone camera. \n \n 3.Scroll down and enter a descriptive keyword-rich title. \n \n 4.On the next screen, select a category that best describes your item. Many buyers browse by category, so this is important to get right.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "5.Drag the slider to the right if the item is om great condition or left for items in worse condition. \n \n 6.Enter a keyword-rich description. Include descriptors such as measurements. \n \n 7.Enter a price. Note OfferUp allows potential buyers to negotiate. If you don’t want to negotiate, select ‘Firm on Price.’ \n \n 8.Set your location, then use your current device location (if your device permissions are set to allow this), or enter your zip code. There is also an option to ‘Sell and ship nationwide’ – if you select this option, you’ll be asked for an estimated weight so that delivery charges can be estimated. \n \n 9.Your listing is complete – select ‘Post’ to put your listing live.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "Selling Your Item  \n \n Select Offers (at the bottom of the screen), and select ‘Selling.’ This page will show all the items you currently have listed for sale. If you click on any items with notifications, all messages from potential buyers will appear here. Select the person’s name to view their profile, which contains their ratings. Stars indicate average rating, with a number adjacent to show how many reviews the user has.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "OfferUp: The Numbers",
+                "image": "https://m-imag.web.app/offerup/4.webp",
+                "title_size": "25",
+          		"detail": [{
+					"image": "",
+					"text": "OfferUp, available only in the US market, is now the largest mobile marketplace in the country, with more than 20 million users in 2022. OfferUp users spend, on average, 25 minutes per day on the app. Data from the 2021 Shopping and Buying Guide showed that 40% of secondhand shoppers plan to sell more on resale marketplaces in 2022, and 1 in 3 plan to shop for resale goods more in the future than in 2021. ",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "82% of shoppers on resale apps are looking for new items, and more than one-third of all items on OfferUp is listed as ‘new.’ OfferUp’s audience is 70.39% male and 29.61% female. The largest age group of visitors is 25 – 34-year-olds. OfferUp had the most mobile users in California at almost 633,000 in 2022. In April 2022, OfferUp received 23.2M visits with an average session duration of 12 minutes and 18 seconds.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "Meet and pay \n \n We recommend meeting at a public location like a cafe or shopping mall. For high-value items, consider meeting at a police station or official Community MeetUp Spot. \n \n If you are purchasing a large item, bring a friend to help lift. \n \n When you’re on your way, inform the seller how long it should take you to get there. If you're running late, please let the seller know so nobody is kept waiting. \n \n Inspect the item in person when you meet. You have the option to politely decline to buy if it isn’t what you want. \n \n OfferUp does not recommend paying with gift cards, personal/certified checks, cashless systems outside of OfferUp, or wire transfers such as Western Union or MoneyGram, as these payment methods can be riskier. \n \n Once money has been exchanged for an item, the sale is final. Resolve any questions or issues with the seller before you pay. ",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "How to set a price",
+                "image": "https://m-imag.web.app/offerup/5.webp",
+                "title_size": "25",
+             	"detail": [{
+					"image": "",
+					"text": "When you’re listing an item for sale, you’ll be asked to set a price. You have the option of setting a firm price or letting buyers make their own offers.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "Set a firm price \n \n When you set a firm price, buyers will only be able to make offers at the posted price. They may still message you to ask if you're willing to take a lower offer, however. Setting a firm price is a great option when you have a good idea of what the item should cost. ",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "Set an asking price \n \n If you’re willing to be flexible on an item’s price, you can set an asking price. Buyers may make an offer at this or any other amount. You're free to accept, negotiate, or say no to any offer. \n \n Begin with a reasonable suggested price so buyers have a good idea of what to offer. This will help you sell the item faster and prevent low offers. For suggestions on fair pricing, try searching for similar items to see what other sellers are asking for.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Why items are removed",
+                "image": "https://m-imag.web.app/offerup/6.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "",
+					"text": "Sometimes an item on OfferUp gets removed because it doesn’t follow our guidelines. This may be because the way it was posted didn’t follow our posting rules. Possible issues include inaccurate photos or descriptions, duplicate listings, or other content we don't allow. An item may also be removed if it's prohibited on OfferUp. Some items aren’t allowed because they present legal risks or may pose health and safety issues. We've also chosen not to allow items that we feel are inappropriate for our community or could be considered offensive. If an item you’re selling has been removed, you’ll get a notification in the app, and we’ll email you to let you know. If you believe an item has been removed in error, contact us by replying to the email.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }
+        ]
+    }
+}

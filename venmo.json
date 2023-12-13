@@ -1,0 +1,167 @@
+{
+    "Ads": {
+        "show_ads": false,
+        "bannerAd": "facebook",
+        "InterAd": "facebook",
+        "NativeAd": "facebook",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native": "ca-app-pub-3940256099942544/1044960115",
+        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "intersitial_click_activites": 6,
+        "intersitial_click_list": 6
+
+    },
+
+
+    "Data": {
+        "btn_more_title": "More",
+        "btn_more_url": "https://www.google.com/",
+        "items_data": [{
+                "title": "How Does Venmo Work? ",
+                "image": "https://nabilelhilaly.com/all/data/venmo/1.webp",
+                "title_size": "25",
+				"detail": [{
+					"image": "",
+					"text": "To ask for or send money, users simply tap on the “Pay or Request” button in the Venmo app, and put in their friend’s username, phone number, or email in the top box. If the friend is nearby, they can also scan a QR code from the app. From there, they can either request money from them, or send them money. After typing a memo indicating what the payment was for, the transaction is complete.Money sent in Venmo comes from one of three sources: the user’s Venmo balance, a debit or credit card, or their bank account. \n \n Venmo users can even request that their paycheck, or a portion of it, be directly deposited to Venmo, to always keep a balance in the app.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "Users can also request a Venmo debit card. In addition to spending anywhere Mastercard is accepted, the card can be used to withdraw money from a user’s Venmo balance. Withdrawals can be made from ATMs displaying the Mastercard, PULSE, or Cirrus logos.\n \n However, if they withdraw from any machine that isn’t in the MoneyPass network, users will pay a fee.There are also limitations to using the Venmo debit card to access cash. If you decide to get cash from an ATM, the withdrawal limit is capped at the balance in your Venmo account, with a hard limit of $400 per day.  ",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "The company has just launched a Venmo-branded credit card as well. It has a QR code stamped on, so your Venmo profile pops up when someone scans it with their phone. They can then send you money or request a payment just like in a regular Venmo transaction. \n \n It also offers a so-called virtual card number, different from the one stamped on the card, which can be used to shop online for added safety.  ",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "What Fees Does Venmo Charge? ",
+                "image": "https://nabilelhilaly.com/all/data/venmo/2.webp",
+                "title_size": "25",
+ 				"detail": [{
+					"image": "",
+					"text": "For most actions in Venmo, there are no fees. That doesn’t mean it’s completely free to use – rather, users need to know when they may be charged for sending and accessing their money.It’s free to send money to other Venmo users using your Venmo balance or your bank account. However, if you decide to send money using your credit card, Venmo will charge you a 3% fee. \n \n For example, if you are sending your friend $100 using the credit card linked to your account, you will be charged $103. ",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "You could also face fees If you are withdrawing money from your Venmo balance to your bank account using the instant transfer feature. With an instant transfer, money will arrive to your bank usually within 30 minutes, but Venmo will charge a 1% fee, with a minimum of $0.25 and a maximum of $10. There is no fee to use the standard withdrawal, which can take up to three business days to show up in your bank account.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "Finally, if you use the Venmo debit card, you could also be charged fees for withdrawing money from an out-of-network ATM. In addition to ATM fees, Venmo will charge $2.50 for using an ATM that’s not in the MoneyPass network and $3 for an over-the-counter cash withdrawal at a bank. You can avoid these fees by using a MoneyPass ATM. ",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Is Venmo Safe? ",
+                "image": "https://nabilelhilaly.com/all/data/venmo/3.webp",
+                "title_size": "25",
+      			"detail": [{
+					"image": "",
+					"text": "Venmo says it employs several security measures to protect the financial information of its users, including data encryption and password protection. \n \n But it’s not bulletproof, and users can face threats ranging from website “phishing” to stolen account passwords.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "Under Venmo’s terms and conditions, users are protected from unauthorized transactions made in their account if someone else accesses it. However, if you accidentally send money to the wrong person, your only recourse is to politely ask for it back. \n \n Although users can ask Venmo for help, the company states on its website, “We cannot guarantee we’ll be able to help recover the money.”",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "If you send money on Venmo to someone for goods that are not delivered or a service that is not provided, you may not be able to recover the cash.“Venmo does not protect you from transaction fraud, says Samantha Ettus, founder and CEO of payment solutions provider Park Place Payments in Woodland Hills, Calif. \n \n “Let’s say you paid your neighbor in advance to pick up groceries. You pay them via Venmo, and if they never deliver the groceries, you have no recourse. \n \n For that reason, Ettus recommends that users send money only after a certain service has been rendered. “Pay the babysitter at the end of the shift. Pay your friend after they bought the gift,” she says, “or do this with friends you trust. You don’t want to be sending money somewhere to someone you don’t know via Venmo if you haven’t already received what you are supposed to receive.” ",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Can You Buy Crypto on Venmo?",
+                "image": "https://nabilelhilaly.com/all/data/venmo/4.webp",
+                "title_size": "25",
+          		"detail": [{
+					"image": "",
+					"text": "Yes — Venmo introduced cryptocurrency to its app in the second half of 2021, joining a movement along with other popular apps like PayPal, Cash App, and Robinhood. \n \n Cryptocurrency exploded in popularity in 2021, with huge increases in value by the big two cryptos: Bitcoin and Ethereum.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "While apps like Venmo make it easier than ever for more people to buy crypto, there is good reason to proceed cautiously. As a relatively new asset class, cryptocurrency is extremely volatile — fluctuating in price by the hour. \n \n Experts recommend keeping crypto investments to less than 5% of your total portfolio, and never to buy crypto before having a solid emergency fund in place, and paying down high-interest debt.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "If you do decide to invest in crypto, it’s worth considering whether a cryptocurrency exchange is a better bet than an app like Venmo or Paypal.  \n \n Mainstream cryptocurrency exchanges tend to come with more features and functionality, and also have greater trading volume and security measures that might be worth their extra complexity — at least compared to apps like Venmo and Paypal.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Alternatives to Venmo  ",
+                "image": "https://nabilelhilaly.com/all/data/venmo/5.webp",
+                "title_size": "25",
+             	"detail": [{
+					"image": "",
+					"text": "For those who want the flexibility of making digital payments on the fly, but without the worry of possibly sharing every payment they make with the world, there are several alternatives. The top options include: ",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "Cash App: Like Venmo, users can send and receive money quickly and easily using their phone. You can send money to any other Cash App user with either their username, phone number, or QR code. Payments are not displayed in a feed that can be seen by third parties. \n \n Zelle: Zelle partners with several major banks, so it may already be included in their apps. It works with your financial institution to send and receive money to and from friends, family and other trusted parties, directly into your accounts. All you need is an e-mail, phone number, and a bank that supports Zelle. It is also available as a separate app. ",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "PayPal: The parent company of Venmo, PayPal offers — on its app and site — more options for sending and receiving money, including a suite of business options. Plus, PayPal offers more protection when things go wrong, including missing items ordered from eBay or other supported partners. ",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Bottom Line",
+                "image": "https://nabilelhilaly.com/all/data/venmo/6.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "000000",
+					"text": "Venmo presents one of the easiest options to send and receive money for users within the United States. Backed by PayPal with encrypted data, Venmo can be a great way to pay a friend, or send someone money for a service rendered.\n \n But before you start “Venmoing,” it’s important to understand how your data might inadvertently be shared, and what happens in the worst-case scenario. By understanding the limitations of Venmo, you can send and ask for cash with confidence. ",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }
+        ]
+    }
+}

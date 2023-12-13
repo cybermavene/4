@@ -1,0 +1,166 @@
+{
+    "Ads": {
+        "show_ads": false,
+        "bannerAd": "facebook",
+        "InterAd": "facebook",
+        "NativeAd": "facebook",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native": "ca-app-pub-3940256099942544/1044960115",
+        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "intersitial_click_activites": 6,
+        "intersitial_click_list": 6
+
+    },
+
+    "Data": {
+        "btn_more_title": "More",
+        "btn_more_url": "https://www.google.com/",
+        "items_data": [{
+                "title": "How can I use Zelle?",
+                "image": "https://m-imag.web.app/zelle/1.webp",
+                "title_size": "25",
+				"detail": [{
+					"image": "",
+					"text": "You can send, request, or receive money with Zelle®. After you’ve enrolled, simply add your recipient’s email address or U.S. mobile number, the amount you’d like to send or request, review and add a memo, and hit “confirm.” In most cases, the money is typically available in minutes1. To receive money, just share your enrolled email address or mobile number with a friend or person you trust and ask them to send you money with Zelle®. \n \n What is Zelle®? \n \n Zelle® is an easy way to send money directly between almost any U.S. bank accounts typically within minutes1. With just an email address or mobile phone number, you can quickly, safely and easily send  and receive money with more people, regardless of where they bank.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "Who can I send money to with Zelle®? \n \n You can send money to almost anyone1 you know and trust with a bank account in the U.S. When using Zelle®, at least one side of the transaction (sender or receiver) must have access to Zelle® through their bank or credit union. \n \n Get Started with Zelle® \n \n Sending money to friends and family should never slow you down. That’s why we’re working with banks and credit unions to make it fast, free1, and easy to send money to almost everyone you know, even if they bank somewhere different than you do.1  \n \n Zelle® is already in over a thousand banking apps. To find out if Zelle® is in yours, search the list below for the bank or credit union where you already have a bank account. If you already have Zelle® in your banking app, GREAT! Follow the steps to enroll and start sending and receiving money. If you don’t, no worries! You can still get in on this awesome way to send money by downloading the Zelle® app.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "If your bank or credit union offers Zelle® - You can send money to almost anyone you know and trust with a bank account in the U.S. \n \n If your bank or credit union does NOT offer Zelle®- The person you want to send money to, or receive money from, must have access to Zelle® through their bank or credit union.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Is my information secure?",
+                "image": "https://m-imag.web.app/zelle/2.webp",
+                "title_size": "25",
+ 				"detail": [{
+					"image": "",
+					"text": "The Zelle® app uses authentication and monitoring features to make your payments more secure. So whether you’re using the Zelle® app or using Zelle® through your bank or credit union’s mobile app or online banking, you’ll have peace of mind. \n \n Can I connect more than one bank account to my Zelle® profile? \n \n Not yet! You can only connect one bank account to your Zelle® profile at any given time.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "How do I change the account I use to send and receive money? \n \n If you’re using the Zelle® app, you can easily change your account directly within the app! \n \n To switch your account: \n \n 1.Tap the gear icon in the top left corner of your mobile screen \n \n 2.Tap Account \n \n 3.Tap Switch Accounts \n \n Next, you’ll be prompted to unlink your current account and add a new account. Keep in mind that by switching your account, you will lose all Zelle® transaction history associated with your old account. \n \n If you’re using Zelle® through your bank or credit union’s mobile app or online banking, please check their support FAQs or contact their customer support team for help changing accounts.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "How do I cancel Zelle®? \n \n If you’re enrolled with your debit card through the Zelle® app, please contact our customer support team to cancel your Zelle® service. You can reach our customer support team toll-free at 844-428-8542. \n \n If you are using Zelle® through your mobile banking app, please contact your bank or credit union to cancel your Zelle® service.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "I'm a Consumer Using Zelle®",
+                "image": "https://m-imag.web.app/zelle/3.webp",
+                "title_size": "25",
+      			"detail": [{
+					"image": "",
+					"text": "I’ve been sending money to a small business with Zelle® for a while. Why isn’t my payment going through now?\n \n To send money to or receive money from a small business, a consumer must be enrolled with Zelle® through their mobile banking app, or enrolled in the Zelle® app with a deposit account. Some financial institutions are now offering Zelle® to their small business customers. Each financial institution’s definition of what is considered a small business account may vary, which means there could be changes to your experience using Zelle® with that business. Small businesses are not able to enroll in the Zelle® app with a debit card, and cannot receive payments from consumers enrolled in the Zelle® app using a debit card. So, if you’re no longer able to send money to or receive money from a small business, this may be why.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "I’m enrolled in the Zelle® app with my debit card. Can I send and receive money from small businesses?\n \n No, not at this time. Currently, only consumers using Zelle® through their financial institution’s mobile banking app can send and receive money with eligible small businesses. If you’re already using the Zelle® app and enrolled with an eligible Visa® or Mastercard® debit card, you can continue using Zelle® with friends, family and others you trust.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+					{
+					"image": "",
+					"text": "Can I cancel a payment I made to a small business?\n \n No, not if the business is already enrolled with Zelle®. Make sure you’re satisfied with the item or service from the small business because you can’t cancel a payment if you send money to someone already enrolled with Zelle® - because money moves quickly - directly into the recipient's bank account typically within minutes1. You may check with your bank or credit union to see what other options may be available to you. Only send money to small businesses you trust, and always ensure you have the correct email address or U.S. mobile number for the business you're trying to send money to.\n \n Is there a limit on the amount of money I can send and receive with Zelle®?\n \nYour financial institution determines this. Please reach out to your bank or credit union directly to find out what specific limits they have for their customers.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "I'm a Small Business Using Zelle®",
+                "image": "https://m-imag.web.app/zelle/4.webp",
+                "title_size": "25",
+          		"detail": [{
+					"image": "",
+					"text": "How do I know if another small business or consumer can pay me with Zelle® ? \n \n The easiest way to find out is to simply ask if they’re enrolled with Zelle®. If it’s a consumer, let them know they can look for Zelle® in their banking app. At this time, only those enrolled with Zelle® through their banking app are able to send and receive money with eligible business accounts.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "If it’s a business that doesn’t offer Zelle® and you think it would be great if they did, suggest that they check with their bank to see if Zelle® is available as a fast, safe and easy way for them to send and receive money with other eligible business like yours and their customers!\n \n Can I use Zelle® for my small business if my bank doesn’t offer Zelle®?\n \nNot at this time. In order to use Zelle® with your business account, your bank or credit union must currently offer Zelle® for your business account type. Please note that not all banks and credit unions offering Zelle® to consumers offer Zelle® for small businesses. So, contact your bank directly to confirm.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "Is there a limit on the amount of money I can send and receive with Zelle®?\n \nYour financial institution determines this. Please reach out to your bank or credit union directly to find out what specific limits they have for their customers.\n \n I use Zelle® for free as a consumer. Is there a fee to use Zelle® as a small business?\n \nIt depends. Check with your financial institution to see what fees may apply. Read the updated terms and conditions provided by your financial institution and accept them to use Zelle®.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "Disbursements with Zelle®",
+                "image": "https://m-imag.web.app/zelle/5.webp",
+                "title_size": "25",
+             	"detail": [{
+					"image": "",
+					"text": "If you’re using Zelle® to send and receive money with friends, family and perhaps a small business, then you already know that Zelle® is a fast, safe and easy way to move money in the moment. But, did you know that you can also receive money from organizations, companies and even the government with Zelle®? This is also known as a disbursement.\n \n Receiving money this way with Zelle® is just as easy – no additional enrollment steps or downloads needed if you’re already enrolled with Zelle® through your banking app!",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "I'm having trouble enrolling with Zelle®. What should I do?\n \n If you’re unable to enroll your debit card and receive a message stating “Profile Locked: For security reasons your account has been locked. Please contact customer service,” there are a few things you should do.? \n \n First, make sure that you are only enrolling a Visa® or Mastercard® debit card tied to a bank account in the U.S. You will not be able to enroll business debit cards, credit cards, cards linked to international accounts, gift cards or pre-paid cards from financial institutions outside of the Zelle Network®.\n \n Next, ensure that the information you are entering matches exactly what is on file for your debit card with your bank or credit union. This includes:",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				},
+				{
+					"image": "",
+					"text": "If you’re still experiencing technical difficulties, you should contact your bank or credit union to verify the debit card information they have on file. Once you have verified the information, please attempt to enroll again.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }, {
+                "title": "receive money without a smartphone?",
+                "image": "https://m-imag.web.app/zelle/6.webp",
+                "title_size": "25",
+                "detail": [{
+					"image": "000000",
+					"text": "If your bank or credit union offers Zelle®, you may be able to use their online banking site to send and receive money without a mobile device.\n \n If your bank or credit union does not offer Zelle®, then you must have a smartphone in order to access the Zelle® app to send and receive money.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "000000"
+				}
+				]
+            }
+        ]
+    }
+}
